@@ -4,4 +4,5 @@ Save your lab screenshots in this folder:
 3. /home page served using FS module
 4. Express server running
 5. EchoAPI GET, POST, PUT and DELETE results
-6. GitHub repository and commit history
+6. GitHub repository and commit histor
+7. Adding screenshots
