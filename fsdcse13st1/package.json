@@ -1,0 +1,14 @@
+{
+  "name": "fsdcse13st1",
+  "version": "1.0.0",
+  "description": "Library Book Management Web Application - Full Stack Development Lab",
+  "type": "module",
+  "main": "httpServer.js",
+  "scripts": {
+    "http": "node httpServer.js",
+    "express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
